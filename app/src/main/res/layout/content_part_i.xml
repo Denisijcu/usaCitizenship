@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.dslijcu.uscitizenshipbydsl.part_i"
+    tools:showIn="@layout/activity_part_i">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/IPreg1"
+                android:id="@+id/IPreg1" />
+        </TableRow>
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="@string/ResIA1"
+            android:id="@+id/btnIR1"
+            android:onClick="Boton1"
+            android:background="@drawable/btnshape"
+            android:layout_margin="4dp"
+            android:textColor="#ffffff"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="@string/ResIA2"
+            android:id="@+id/btnIR2"
+            android:onClick="Boton2"
+            android:background="@drawable/btnshape"
+            android:layout_margin="4dp"
+            android:textColor="#ffffff"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="@string/RespIA3"
+            android:id="@+id/btnIR3"
+            android:onClick="Boton3"
+            android:background="@drawable/btnshape"
+            android:textColor="#ffffff"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="@string/RespIA4"
+            android:id="@+id/btnIR4"
+            android:onClick="Boton4"
+            android:background="@drawable/btnshape"
+            android:layout_margin="4dp"
+            android:textColor="#ffffff"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/score_0"
+            android:id="@+id/idScore"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/result"
+            android:id="@+id/idResultado"
+            android:textSize="26sp"
+            android:layout_gravity="center_horizontal" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="91dp"
+            android:layout_height="42dp"
+            android:text="@string/NextP"
+            android:id="@+id/btnIR5"
+            android:layout_gravity="right"
+            android:onClick="INext"
+            android:textColor="#ffffff"
+            android:background="@drawable/btnshape" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

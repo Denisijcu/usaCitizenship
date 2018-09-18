@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dslijcu.uscitizenshipbydsl">
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icono"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".USMainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".FrmResultado"
+            android:label="@string/title_activity_frm_resultado"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PartOne"
+            android:label="@string/title_activity_part_one"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".WPageParteOne" />
+        <activity
+            android:name=".PartTwo"
+            android:label="@string/title_activity_part_two"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".fr2" />
+        <activity android:name=".WPagePart2" />
+        <activity android:name=".wpageInformation" />
+        <activity
+            android:name=".Creditos"
+            android:label="@string/title_activity_creditos"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ParteC"
+            android:label="@string/title_activity_parte_c"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Fr" />
+        <activity android:name=".frm3" />
+        <activity android:name=".WPageParteC" />
+        <activity
+            android:name=".parteD"
+            android:label="@string/title_activity_parte_d"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".FrmResulD" />
+        <activity android:name=".PageD" />
+        <activity
+            android:name=".PartE"
+            android:label="@string/title_activity_part_e"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".FrmRusultE" />
+        <activity android:name=".PageE" />
+        <activity
+            android:name=".part_f"
+            android:label="@string/title_activity_part_f"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".frm_result_f" />
+        <activity android:name=".pagef" />
+        <activity android:name=".inglishtest" />
+        <activity
+            android:name=".part_g"
+            android:label="@string/title_activity_part_g"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".part_h"
+            android:label="@string/title_activity_part_h"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".frm_result_g" />
+        <activity android:name=".pageg" />
+        <activity android:name=".frm_result_h" />
+        <activity android:name=".pageh" />
+
+        <activity
+            android:name=".part_i"
+            android:label="@string/title_activity_part_i"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity android:name=".frm_result_i" />
+        <activity android:name=".pagei" />
+
+    </application>
+
+</manifest>

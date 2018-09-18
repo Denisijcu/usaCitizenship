@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/part1"
+            android:title="A: Principles of American Democracy" />
+        <item
+            android:id="@+id/part2"
+            android:title="B: System of Government" />
+        <item
+            android:id="@+id/part3"
+            android:title="C: Rights and Responsabilities" />
+        <item
+            android:id="@+id/part4"
+            android:title="D: Colonial Period and Independence" />
+        <item
+            android:id="@+id/part5"
+            android:title="E: 1800s" />
+        <item
+            android:id="@+id/part6"
+            android:title="F: Recent American History and Other Important Historical Information" />
+        <item
+            android:id="@+id/part7"
+            android:title="G: Geography" />
+        <item
+            android:id="@+id/part8"
+            android:title="H: Symbols" />
+        <item
+            android:id="@+id/part9"
+            android:title="I: Holidays" />
+
+
+    </group>
+
+    <item android:title="Vacabulary">
+        <menu>
+            <item
+                android:id="@+id/part10"
+                android:icon="@drawable/ic_menu_share"
+                android:title="English Test" />
+
+        </menu>
+    </item>
+
+</menu>

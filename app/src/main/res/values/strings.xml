@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">US Citizenship by DSL</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">About ... </string>
+    <string name="title_activity_parte1">Parte1</string>
+    <string name="Preg1">What is the supreme law of the land?</string>
+    <string name="RespA">The Supreme Court</string>
+    <string name="RespB">The Bill of Rights</string>
+    <string name="RespC">The Declaration of Independece</string>
+    <string name="RespD">The Constitution</string>
+    <string name="NextP">Next</string>
+    <string name="score_0">Score = 0</string>
+    <string name="result">Result</string>
+    <string name="flag">flag</string>
+    <string name="results">Results</string>
+    <string name="rights">Rights: </string>
+    <string name="wrongs">Wrongs:</string>
+    <string name="Preg11">Name one branch or part of the government?</string>
+    <string name="RespA1">Senate</string>
+    <string name="RespA2">House of Representatives</string>
+    <string name="RespA3">Vice President</string>
+    <string name="RespA4">Congress</string>
+    <string name="title_activity_frm_resultado">FrmResultado</string>
+    <string name="title_activity_part1">Part1</string>
+    <string name="title_activity_part_one">Part 1: Questions 1 - 10</string>
+    <string name="title_activity_part_two">PartTwo</string>
+    <string name="title_activity_creditos">About App Programmer</string>
+    <string name="creditos">This App was created by:</string>
+    <string name="autor">Denis Sanchez Leyva</string>
+    <string name="email">dslij@hotmail.com</string>
+    <string name="www">www.dslijcu.com</string>
+    <string name="notaAutor">Note: I created this app while I was studing for my naturalization test. It was very usefull for me. I hope be usefull to you too. Enjoy it. For Any question contact to me. I will be happy to help you.</string>
+    <string name="title_activity_parte_c">ParteC</string>
+    <string name="CPreg1">There are four amendments to the Constitution about who can vote. Describe one of them.</string>
+    <string name="RespCA1">Citizens seventeen (17) and older can vote</string>
+    <string name="RespCA2">Only citizens with a job can vote</string>
+    <string name="RespCA3">Citizens eighteen (18) and older (can vote)</string>
+    <string name="RespCA4">Citizens by birth only can vote</string>
+    <string name="title_activity_parte_d">parteD</string>
+    <string name="DPreg1">What is one reason colonists came to America</string>
+    <string name="ResDA1">Bussines Oportunity</string>
+    <string name="ResDA2">Looking for job</string>
+    <string name="RespDA3">Economic opportunity</string>
+    <string name="RespDA4">Much Better Life</string>
+    <string name="title_activity_part_e">Part E 1800\'s</string>
+    <string name="EPreg1">What territory did the United States buy from France in 1803?</string>
+    <string name="ResEA1">New Yersey</string>
+    <string name="ResEA2">Nevada territory</string>
+    <string name="RespEA3">The Louisiana Territory</string>
+    <string name="RespEA4">Florida Territory</string>
+    <string name="title_activity_part_f">Recent American History and Other Important Historical Information</string>
+    <string name="FPreg1">Name one war fought by the United States in the 1900s.</string>
+    <string name="ResFA1">World War I, World II</string>
+    <string name="ResFA2">Civil War</string>
+    <string name="RespFA3">Mexican War</string>
+    <string name="RespFA4">Spanish-American War</string>
+    <string name="mas_informacion">More Information</string>
+    <string name="title_activity_english_test">EnglishTest</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+
+    <string name="title_activity_part_g">G: Geography</string>
+    <string name="GPreg1">88.  Name one of the two longest rivers in the United States?</string>
+    <string name="ResGA1"> Mississippi River</string>
+    <string name="ResGA2">Nevada River</string>
+    <string name="RespGA3">Montana River</string>
+    <string name="RespGA4">Florida River</string>
+
+
+
+    <string name="title_activity_part_h">H: Symbols</string>
+    <string name="HPreg1">96.  Why does the flag have 13 stripes? </string>
+    <string name="ResHA1"> because there were 13 original colonies </string>
+    <string name="ResHA2">because Washington Wants</string>
+    <string name="RespHA3">Montana River</string>
+    <string name="RespHA4">Florida River</string>
+
+
+    <string name="title_activity_part_i">I: Holidays</string>
+    <string name="IPreg1">99. When do we celebrate Independence Day? </string>
+    <string name="ResIA1">July 8 </string>
+    <string name="ResIA2">July 4</string>
+    <string name="RespIA3">November 15</string>
+    <string name="RespIA4">April 15</string>
+
+
+
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+
+</resources>
